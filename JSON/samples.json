@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Curry",
+    "file": "samples/.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Rhythm",
+    "file": "samples/.wav",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "",
+    "file": "samples/",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
